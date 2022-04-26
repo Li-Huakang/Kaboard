@@ -236,7 +236,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Kayasu"
+    ]
   },
   "meta": {
     "filename": "S3_module.kicad_pro",
